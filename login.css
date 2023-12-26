@@ -21,7 +21,7 @@ main >form >#img-cont{
     margin-bottom:20px;
 }
 main > form > div > img{
-    width :50%;
+    width :90%;
     /*margin-left:25%;*/
 }
 input,button,a{
